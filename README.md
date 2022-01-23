@@ -28,10 +28,13 @@ My Rust crates published at [crates.io](https://crates.io/).
 
 ### Misc
 
-- [advent-of-code](https://github.com/malaire/advent-of-code)
+- [advent-of-code](https://github.com/malaire/advent-of-code):
+  My Advent of Code solutions
 - [ble-current-time-broadcast](https://github.com/malaire/ble-current-time-broadcast): 
   Bluetooth LE current time broadcast for syncing Bangle.js 2 smartwatch.
-- [misc](https://github.com/malaire/misc)
-- [php-scripts](https://github.com/malaire/php-scripts)
-- [utils-for-log4](https://github.com/malaire/utils-for-log4)
-- [oak-with-rpi-server](https://github.com/malaire/oak-with-rpi-server)
+
+And also
+ [misc](https://github.com/malaire/misc),
+ [php-scripts](https://github.com/malaire/php-scripts),
+ [utils-for-log4](https://github.com/malaire/utils-for-log4) and
+ [oak-with-rpi-server](https://github.com/malaire/oak-with-rpi-server).
