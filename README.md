@@ -34,8 +34,6 @@ My Rust crates published at [crates.io](https://crates.io/).
   My Advent of Code solutions
 - [banglejs](https://github.com/malaire/banglejs):
   Some code for Bangle.js 1 & 2 smartwatches.
-- [ble-current-time-broadcast](https://github.com/malaire/ble-current-time-broadcast): 
-  Bluetooth LE current time broadcast for syncing Bangle.js 2 smartwatch.
 
 And also
  [misc](https://github.com/malaire/misc),
