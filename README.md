@@ -6,6 +6,8 @@ My Rust crates published at [crates.io](https://crates.io/).
 
 - [ml-downloader](https://github.com/malaire/ml-downloader):
   Simple blocking downloader based on reqwest
+- [ml-progress](https://github.com/malaire/ml-progress):
+  Single line progress indicator for terminal/console
 - [readme-rustdocifier](https://github.com/malaire/readme-rustdocifier):
   A library for rustdocifying `README.md` for inclusion in `lib.rs`
 - [reed-solomon-16](https://github.com/malaire/reed-solomon-16):
