@@ -15,21 +15,6 @@ My Rust crates published at [crates.io](https://crates.io/).
 - [rolling-dual-crc](https://github.com/malaire/rolling-dual-crc):
   Rolling CRC with 32-bit CRC32C and 64-bit CRC64/XZ 
 
-### Elm
-
-#### Packages
-
-- [elm-uint64](https://github.com/malaire/elm-uint64):
-  64-bit unsigned integer with division 
-- [elm-safe-int](https://github.com/malaire/elm-safe-int):
-  A safe 54-bit signed integer
-
-#### Other
-
-- [elm-dependencies-analyzer](https://github.com/malaire/elm-dependencies-analyzer)
-- [elm-examples](https://github.com/malaire/elm-examples)
-- [elm-optimizations](https://github.com/malaire/elm-optimizations)
-
 ### Misc
 
 - [advent-of-code](https://github.com/malaire/advent-of-code):
